@@ -1,2 +1,2 @@
 # GunViolenceAnalysis
-Used for IBM Data Science Coursera Capstone Project
+Analysis of yearly shootings in the US
