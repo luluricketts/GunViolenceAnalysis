@@ -1,0 +1,229 @@
+State,City Or County,Per capita income
+Illinois,Danville,16476
+Illinois,Chicago,36010
+Illinois,Aurora,28483
+Illinois,Round Lake (Round Lake Park),21585
+Illinois,Rockford,28732
+Illinois,Robbins,13955
+Illinois,Carbondale,16439
+New York,Buffalo,31542
+New York,Bronx,17575
+New York,Brooklyn,32274
+New York,Bay Shore,31036
+California,Ceres,18575
+California,Modesto,23034
+California,Oakland,32566
+California,Ivanhoe,9915
+California,Los Angeles,27987
+California,Long Beach,27014
+California,Richmond,25769
+California,Fresno,20231
+California,San Diego,33789
+California,Santa Clarita,33879
+California,Orinda,84985
+California,Wilmington,16282
+California,San Francisco,49986
+California,Gilroy,29559
+California,Canoga Park,28907
+California,San Jose,34992
+California,Yucaipa,26103
+California,La Jolla,77816
+California,Santa Maria,18509
+California,Santa Rosa,29890
+California,West Covina,24944
+California,Stockton,19927
+California,Sacramento,27071
+California,Oceano,20725
+California,Poway,40681
+California,Vallejo,25945
+California,Moreno Valley,17874
+California,Palm Springs,38126
+California,Palmdale,19438
+California,Torrance,36876
+Georgia,Kennesaw,31177
+Georgia,Columbus,25224
+Georgia,Vidalia,22624
+Georgia,Conyers,17495
+Georgia,Lagrange,19622
+Georgia,Dublin,29834
+Georgia,Atlanta,33693
+Georgia,Savannah,22497
+Georgia,Macon,24632
+Georgia,Stockbridge,24456
+Georgia,Augusta,25163
+Georgia,Rochelle,12929
+Georgia,Albany,18887
+Georgia,Rockmart,16272
+Texas,Houston,18813
+Texas,San Antonio,27280
+Texas,Desoto,29630
+Texas,Amarillo,27948
+Texas,Nacogdoches,20757
+Texas,San Angelo,26602
+Texas,Greenville,21188
+Texas,Port Arthur,18471
+Texas,El Paso,22777
+Texas,Beaumont,26441
+Texas,Odessa,24264
+Texas,Lubbock,25720
+Texas,Katy,31617
+Texas,Dallas,26185
+Texas,Austin,42923
+Texas,Cleveland,18165
+Texas,Corpus Christi,27128
+Texas,Henderson,20594
+Texas,Livingston,20154
+Florida,Saint Petersburg,31724
+Florida,Pensacola,29302
+Florida,Brownsville,12385
+Florida,Belle Glade,13321
+Florida,Tampa,30738
+Florida,Jacksonville,31303
+Florida,Miami,30408
+Florida,Tallahassee,25471
+Florida,Panama City,24732
+Florida,Sebring,18807
+Iowa,Coralville,38295
+Iowa,Des Moines,35877
+Iowa,Cedar Rapids,13979
+Virginia,Richmond,34720
+Virginia,Suffolk,30021
+Virginia,Hampton,52021
+Virginia,Portsmouth,24291
+Virginia,Virginia Beach,32493
+Virginia,La Crosse,20341
+Virginia,Chesapeake,32123
+Virginia,Petersburg,21992
+Virginia,Hurt,22769
+Louisiana,New Orleans,29166
+Louisiana,Edgard,10635
+Louisiana,Cotton Valley,12662
+Louisiana,Cottonport,9507
+Louisiana,Tallulah,14457
+Louisiana,Baton Rouge,28872
+Louisiana,Alexandria,21922
+Louisiana,Marrero,19643
+Louisiana,Lake Charles,38603
+Louisiana,Gray,12676
+Louisiana,Shreveport,23934
+Louisiana,Reserve,13373
+Louisiana,Saint Rose,14091
+Louisiana,Gonzales,28277
+North Carolina,High Point,25013
+North Carolina,Raleigh,36054
+North Carolina,Roxboro,17560
+North Carolina,Whiteville,30634
+North Carolina,Greensboro,27490
+North Carolina,Rocky Mount,23320
+North Carolina,Charlotte,33209
+North Carolina,Winston Salem (Winston-salem),26668
+Maryland,Baltimore,39217
+Maryland,Frederick,33865
+Maryland,Temple Hills (Camp Springs),68510
+Maryland,Germantown,39188
+Minnesota,Minneapolis (Spring Lake Park),39686
+Minnesota,Saint Paul,29198
+Mississippi,Waynesboro,12946
+Mississippi,Greenwood,18008
+Mississippi,Cascilla,
+Mississippi,Jackson,26655
+Mississippi,Hermanville,16345
+Mississippi,Clinton,26859
+Alabama,Tuskegee,16385
+Alabama,Montgomery,26286
+Alabama,Birmingham,29908
+Alabama,Elkmont,17654
+Alabama,Valley,15928
+Alabama,Mobile,25244
+Alabama,Atmore,14667
+Montana,Great Falls,30181
+Montana,Missoula,30464
+Missouri,Saint Louis,33987
+Missouri,Kansas City,29742
+Missouri,Marshall,19600
+Missouri,Saint Louis (Wellston),10334
+New Jersey,Jersey City,36453
+New Jersey,Newark,18357
+New Jersey,Paterson,13257
+New Jersey,Trenton,42268
+New Jersey,North Bergen,25898
+New Jersey,Camden,14747
+Michigan,Kalamazoo,31388
+Michigan,Detroit,32924
+Michigan,Lansing,30046
+Michigan,Eastpointe,21616
+Michigan,Flint,26181
+Michigan,Saginaw,26263
+Arkansas,Hensley,10878
+Arkansas,Little Rock,32719
+Arkansas,Pine Bluff,19506
+Arkansas,Jonesboro,26049
+Washington,Everett,29266
+Washington,Tacoma,29420
+Washington,Kennewick,28680
+Washington,White Swan,10623
+Ohio,Cleveland,31900
+Ohio,Toledo,28584
+Ohio,Columbus,32887
+Ohio,Akron,31774
+Ohio,Dayton,29503
+Ohio,West Chester,41532
+Tennessee,Memphis,23629
+Tennessee,Henning,18991
+Tennessee,Nashville,33875
+Tennessee,Covington,22252
+Arizona,Tolleson,17255
+Arizona,Phoenix,31096
+Arizona,Yuma,21665
+Pennsylvania,Philadelphia,37235
+Pennsylvania,Duquesne,19466
+Pennsylvania,Clairton,20162
+Pennsylvania,Allentown,16282
+Pennsylvania,Effort,28184
+Pennsylvania,State College,29433
+Pennsylvania,Lebanon,37511
+Oklahoma,Oklahoma City,28365
+Oklahoma,Oklahoma City (Midwest City),24375
+Oklahoma,Tulsa,28265
+South Carolina,Sumter,22963
+South Carolina,Lancaster,16828
+South Carolina,Moncks Corner,24715
+South Carolina,Columbia,28649
+South Carolina,Abbeville,21185
+South Carolina,Allendale,10433
+South Carolina,North Charleston,22099
+South Carolina,Gaffney,16873
+Massachusetts,Lowell,35616
+Massachusetts,Abington,23380
+Massachusetts,Lynn,26020
+Massachusetts,Boston,45273
+Colorado,Denver,39832
+Colorado,Aurora,27077
+Colorado,Littleton (Highlands Ranch),42954
+Kansas,Kansas City,19833
+Kansas,Claflin,34491
+Kansas,Wichita,27498
+Indiana,Evansville,29637
+Indiana,Gary,18466
+Indiana,Indianapolis,32086
+Indiana,South Bend,27592
+Indiana,Muncie,26672
+Wisconsin,Milwaukee,33598
+Wisconsin,Chippewa Falls,29305
+District of Columbia,Washington,47285
+Wyoming,Cheyenne,32574
+New Mexico,Albuquerque,26876
+New Mexico,Hobbs,24144
+New Mexico,Roswell,21272
+Connecticut,Hartford,36775
+Connecticut,Hamden,37009
+Nevada,Reno,34104
+Nevada,North Las Vegas,21499
+Nevada,Las Vegas,29479
+Kentucky,Louisville,31055
+Kentucky,Covington,16841
+Kentucky,Elizabethtown,28022
+Kentucky,Owensboro,28410
+Oregon,Portland,36303
+Nebraska,Omaha,33276
+Delaware,Wilmington,27062

@@ -1,2 +1,2 @@
 # GunViolenceAnalysis
-Analysis of yearly shootings in the US
+For Coursera IBM Data Science Capstone project
